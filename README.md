@@ -1,2 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=03F7DD&center=true&vCenter=true&multiline=true&width=435&lines=I+am+a)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=03F7DD&center=true&vCenter=true&multiline=true&width=435&lines=I+am+a)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=03F7DD&center=true&vCenter=true&width=435&lines=Software+Developer;MERN+Stack+Developer)](https://git.io/typing-svg)
