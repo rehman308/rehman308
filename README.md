@@ -6,9 +6,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&letterSpacing=.5rem&pause=1000&color=14F1F7&random=true&width=435&lines=I'm+a+Software+Developer+%F0%9F%92%BB;I'm+a+MERN+Stack+Developer+%E2%9A%9B%EF%B8%8F;I'm+not+a+Robot+%F0%9F%A4%96;Beepboop...+Oops+%EF%BC%BC(%EF%BE%9F%EF%BD%B0%EF%BE%9F%EF%BC%BC)" alt="Typing SVG" /></a>
 </div>
 
-<p>Welcome to my GitHub profile! I'm a passionate developer. I thrive on creating innovative, user-centric web applications that solve real-world problems and push the boundaries of technology.
+<p align="center">Welcome to my GitHub profile! I'm a passionate developer. I thrive on creating innovative, user-centric web applications that solve real-world problems and push the boundaries of technology.
 
 My journey as a developer began with a fascination for how the web connects people and ideas. Over the years, I have honed my skills in JavaScript, React.js, Node.js, and MongoDB, among others, by working on various projects that challenge my creativity and technical expertise.</p>
+
+<img align="center" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 ## Languages and Tools...
 
