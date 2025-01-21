@@ -21,12 +21,11 @@
    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">   
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/dockerhub.svg" alt="docker" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/jetbrains_webstorm.svg" alt="webstorm" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/jetbrains_webstorm.svg" alt="webstorm" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/devices/pc.svg" alt="windows" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/edge.svg" alt="edge" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/office_365.svg" alt="office" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/dockerhub.svg" alt="docker" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/jetbrains_webstorm.svg" alt="webstorm" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/pc.svg" alt="windows" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/edge.svg" alt="edge" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/services/office_365.svg" alt="office" style="vertical-align:top; margin:4px">
 </p>
